@@ -1,6 +1,6 @@
 # Balanced Parenthesis Sequence Analysis Algorithm
 
-This is a Javascript program to solve the balanced parenthesis string problem using a simple algorithm. Some basic optimizations have been incorporated to check the contents of the string before applying the algorithm. This app took about 45 minutes to build and test.
+This is a Javascript program to solve the balanced parenthesis string problem using a simple algorithm (see problem statement below). Some basic optimizations have been incorporated to check the contents of the string before applying the algorithm. This app took about 45 minutes to build and test.
         
 ## Balanced Parenthesis Problem Statement:
 
