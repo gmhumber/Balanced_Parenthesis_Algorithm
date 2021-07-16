@@ -7,5 +7,5 @@ This is a Javascript program to solve the balanced parenthesis string problem us
 For any given string expression of size N which contains just opening and closing brackets of the types, '(', ')', '{', '}', '[' and ']'. The task is to check if the given expression contains balanced parentheses.
 
 Parentheses are balanced if:
--For every opening bracket, there is a closing bracket of the same type.
--All brackets are closed in the correct order
+- For every opening bracket, there is a closing bracket of the same type.
+- All brackets are closed in the correct order
