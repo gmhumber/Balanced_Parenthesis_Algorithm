@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width">
+    <script defer async src="main.js"></script>
+    <title>BPSAA</title>
+</head>
+    <body>
+        <h1>Balanced Parenthesis Sequence Analysis Algorithm</h1>
+        
+        <h2>Problem Statement:</h2>
+        <p>For any given string expression of size N which contains just opening and closing brackets of the types, '(', ')', '{', '}', '[' and ']'. The task is to check if the given expression contains balanced parentheses.</p>
+        <p>Parentheses are balanced if:</p>
+        <ul>
+            <li>For every opening bracket, there is a closing bracket of the same type.</li>
+            <li>All brackets are closed in the correct order</li>
+        </ul>
+
+        <h2>Solution:</h2>
+        <p>Enter your parentheses string sequence to check whether it is balanced.</p>
+
+        <form action="#" method="GET">
+            <label for="user-input">Enter sequence here: </input>
+            <input type="text" id="user-input" name="user-input" />
+            <button type="button" onclick="analyzeSequence()">Analyze Input</button>
+        </form>
+        <p>Results: <span id="result-span"></span></p>
+    </body>
+</html>
